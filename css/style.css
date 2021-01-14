@@ -1,0 +1,29 @@
+.custom-card {
+    border: 0;
+    border-radius: 10px;
+}
+
+.bottom-padding {
+    padding-bottom: 40px;
+}
+
+.slider {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.catagory-card {
+    border-radius: 10px;
+}
+
+.card-bottom {
+    background-color: white;
+    border: none;
+}
+
+.input-box {
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
