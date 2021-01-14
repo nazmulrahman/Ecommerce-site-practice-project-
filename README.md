@@ -1,1 +1,1 @@
-<a href="#">Live Site</a>
+<a href="#">Visit Site</a>
